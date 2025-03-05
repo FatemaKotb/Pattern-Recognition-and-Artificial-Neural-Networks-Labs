@@ -1,6 +1,0 @@
-Hello!
-I am writing this file using Python! at iteration 0Hello!
-I am writing this file using Python! at iteration 1Hello!
-I am writing this file using Python! at iteration 2Hello!
-I am writing this file using Python! at iteration 3Hello!
-I am writing this file using Python! at iteration 4
